@@ -14,10 +14,10 @@ Make sure you have Rust and Cargo installed on your system.
    git clone https://github.com/alihan-tadal/rust-particles.git
    ```
 
-2. Navigate to the `particles` directory:
+2. Navigate to the `rust-particles` directory:
 
    ```bash
-   cd particles
+   cd rust-particles
    ```
 
 3. Build and run the code:
